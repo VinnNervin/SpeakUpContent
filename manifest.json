@@ -3,14 +3,14 @@
   "generatedAt": "2026-07-04",
 
   "app": {
-    "minimumVersion": "2.0.0",
-    "recommendedVersion": "1.1.0",
+    "minimumVersion": "1.0.0",
+    "recommendedVersion": "1.0.0",
     "maintenance": false
   },
   "notes" : "",
   "curriculums": {
     "english": {
-      "version": "1.0.1",
+      "version": "1.0.0",
       "hash": "",
       "url": "curriculums/english.json"
     },
