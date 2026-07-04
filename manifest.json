@@ -1,0 +1,24 @@
+{
+  "manifestVersion": 1,
+  "generatedAt": "2026-07-04",
+
+  "app": {
+    "minimumVersion": "1.0.0",
+    "recommendedVersion": "1.1.0",
+    "maintenance": false
+  },
+
+  "curriculums": {
+    "english": {
+      "version": "1.0.1",
+      "hash": "",
+      "url": "curriculums/english.json"
+    },
+
+    "chinese": {
+      "version": "1.0.0",
+      "hash": "",
+      "url": "curriculums/chinese.json"
+    }
+  }
+}
