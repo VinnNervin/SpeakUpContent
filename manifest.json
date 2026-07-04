@@ -7,7 +7,7 @@
     "recommendedVersion": "1.1.0",
     "maintenance": false
   },
-
+  "notes" : "",
   "curriculums": {
     "english": {
       "version": "1.0.1",
