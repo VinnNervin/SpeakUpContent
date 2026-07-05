@@ -1,0 +1,220 @@
+{
+  "chapter_id": "chapter-01",
+  "chapter_title": "Greetings",
+  "chapter_desc": "Belajar salam dasar yang sering digunakan dalam percakapan sehari-hari.",
+  "icon": "waving_hand",
+  "stages": [
+    {
+      "stage_id": "s1",
+      "stage_name": "Basic Greetings",
+      "questions": [
+        {
+          "id": "q_s1_001",
+          "type": "reading",
+          "question": "Hello",
+          "translation": "Halo",
+          "explanation": "Hello adalah salam yang paling umum digunakan untuk menyapa seseorang."
+        },
+        {
+          "id": "q_s1_002",
+          "type": "multiple_choice",
+          "question": "Apa arti dari kata 'Hello'?",
+          "options": [
+            "Halo",
+            "Selamat tinggal",
+            "Terima kasih",
+            "Maaf"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hello berarti Halo."
+        },
+        {
+          "id": "q_s1_003",
+          "type": "reading",
+          "question": "Good morning",
+          "translation": "Selamat pagi",
+          "explanation": "Digunakan untuk menyapa seseorang pada pagi hari."
+        },
+        {
+          "id": "q_s1_004",
+          "type": "multiple_choice",
+          "question": "Kapan kita biasanya mengucapkan 'Good morning'?",
+          "options": [
+            "Pagi hari",
+            "Siang hari",
+            "Malam hari",
+            "Saat berpamitan"
+          ],
+          "correctIndex": 0,
+          "explanation": "Good morning digunakan pada pagi hari."
+        },
+        {
+          "id": "q_s1_005",
+          "type": "reading",
+          "question": "Good afternoon",
+          "translation": "Selamat siang",
+          "explanation": "Digunakan setelah pagi hingga menjelang sore."
+        },
+        {
+          "id": "q_s1_006",
+          "type": "multiple_choice",
+          "question": "Apa arti dari 'Good afternoon'?",
+          "options": [
+            "Selamat malam",
+            "Selamat siang",
+            "Selamat pagi",
+            "Sampai jumpa"
+          ],
+          "correctIndex": 1,
+          "explanation": "Good afternoon berarti Selamat siang."
+        },
+        {
+          "id": "q_s1_007",
+          "type": "reading",
+          "question": "Good evening",
+          "translation": "Selamat malam (saat bertemu)",
+          "explanation": "Digunakan untuk menyapa seseorang pada sore atau malam hari, bukan saat akan tidur."
+        },
+        {
+          "id": "q_s1_008",
+          "type": "multiple_choice",
+          "question": "Apa arti dari 'Good evening'?",
+          "options": [
+            "Selamat malam (saat bertemu)",
+            "Selamat tidur",
+            "Selamat pagi",
+            "Selamat siang"
+          ],
+          "correctIndex": 0,
+          "explanation": "Good evening digunakan saat bertemu pada sore atau malam hari."
+        },
+        {
+          "id": "q_s1_009",
+          "type": "reading",
+          "question": "Goodbye",
+          "translation": "Selamat tinggal",
+          "explanation": "Digunakan ketika akan berpisah."
+        },
+        {
+          "id": "q_s1_010",
+          "type": "multiple_choice",
+          "question": "Kalimat mana yang digunakan saat berpamitan?",
+          "options": [
+            "Hello",
+            "Good morning",
+            "Goodbye",
+            "Good afternoon"
+          ],
+          "correctIndex": 2,
+          "explanation": "Goodbye digunakan saat mengakhiri percakapan atau berpisah."
+        }
+      ]
+    },
+    {
+      "stage_id": "s2",
+      "stage_name": "Common Phrases",
+      "questions": [
+        {
+          "id": "q_s2_001",
+          "type": "reading",
+          "question": "Thank you",
+          "translation": "Terima kasih",
+          "explanation": "Ungkapan sopan untuk menunjukkan rasa terima kasih."
+        },
+        {
+          "id": "q_s2_002",
+          "type": "multiple_choice",
+          "question": "Apaarti dari 'Thank you'?",
+          "options": [
+            "Permisi",
+            "Terima kasih",
+            "Maaf",
+            "Halo"
+          ],
+          "correctIndex": 1,
+          "explanation": "Thank you berarti Terima kasih."
+        },
+        {
+          "id": "q_s2_003",
+          "type": "reading",
+          "question": "You're welcome",
+          "translation": "Sama-sama",
+          "explanation": "Jawaban yang sopan ketika seseorang mengucapkan terima kasih."
+        },
+        {
+          "id": "q_s2_004",
+          "type": "multiple_choice",
+          "question": "Apa jawaban yang tepat untuk 'Thank you'?",
+          "options": [
+            "Yes",
+            "No",
+            "You're welcome",
+            "Please"
+          ],
+          "correctIndex": 2,
+          "explanation": "You're welcome adalah jawaban sopan untuk terima kasih."
+        },
+        {
+          "id": "q_s2_005",
+          "type": "reading",
+          "question": "Please",
+          "translation": "Tolong / Silakan",
+          "explanation": "Digunakan saat meminta bantuan atau menawarkan sesuatu dengan sopan."
+        },
+        {
+          "id": "q_s2_006",
+          "type": "multiple_choice",
+          "question": "Kapan kita menggunakan kata 'Please'?",
+          "options": [
+            "Saat meminta",
+            "Saat memberi tahu",
+            "Saat menyapa",
+            "Saat berpisah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Please digunakan saat meminta sesuatu dengan sopan."
+        },
+        {
+          "id": "q_s2_007",
+          "type": "reading",
+          "question": "Excuse me",
+          "translation": "Permisi / Maaf",
+          "explanation": "Digunakan untuk menarik perhatian seseorang atau meminta maaf saat tidak sengaja mengganggu."
+        },
+        {
+          "id": "q_s2_008",
+          "type": "multiple_choice",
+          "question": "Apa arti dari 'Excuse me'?",
+          "options": [
+            "Terima kasih",
+            "Selamat datang",
+            "Permisi",
+            "Sampai jumpa"
+          ],
+          "correctIndex": 2,
+          "explanation": "Excuse me digunakan untuk permisi atau menarik perhatian."
+        },
+        {
+          "id": "q_s2_009",
+          "type": "reading",
+          "question": "Sorry",
+          "translation": "Maaf",
+          "explanation": "Digunakan saat meminta maaf atas kesalahan."
+        },
+        {
+          "id": "q_s2_010",
+          "type": "multiple_choice",
+          "question": "Apa yang kamu ucapkan jika tidak sengaja menumpahkan minuman?",
+          "options": [
+            "Thank you",
+            "Sorry",
+            "Please",
+            "Hello"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Sorry' digunakan untuk meminta maaf atas kesalahan."
+        }
+      ]
+    }
+  ]
+}

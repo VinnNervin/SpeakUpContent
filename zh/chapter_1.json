@@ -1,0 +1,119 @@
+{
+  "chapter_id": "chapter-01",
+  "chapter_title": "问候",
+  "chapter_desc": "Pelajari salam dasar dalam bahasa Mandarin beserta cara membacanya.",
+  "icon": "waving_hand",
+  "stages": [
+    {
+      "stage_id": "s1",
+      "stage_name": "问候",
+      "questions": [
+        {
+          "id": "q_s1_001",
+          "type": "reading",
+          "question": "你好",
+          "romanization": "Nǐ hǎo",
+          "translation": "Halo",
+          "explanation": "你好 (Nǐ hǎo) adalah salam yang paling umum digunakan dalam bahasa Mandarin."
+        },
+        {
+          "id": "q_s1_002",
+          "type": "multiple_choice",
+          "question": "Apa arti dari '你好 (Nǐ hǎo)'?",
+          "options": [
+            "Halo",
+            "Terima kasih",
+            "Selamat tinggal",
+            "Sampai jumpa"
+          ],
+          "correctIndex": 0,
+          "explanation": "你好 berarti Halo."
+        },
+        {
+          "id": "q_s1_003",
+          "type": "reading",
+          "question": "早上好",
+          "romanization": "Zǎoshang hǎo",
+          "translation": "Selamat pagi",
+          "explanation": "Digunakan untuk menyapa seseorang pada pagi hari."
+        },
+        {
+          "id": "q_s1_004",
+          "type": "multiple_choice",
+          "question": "Kapan kita menggunakan '早上好 (Zǎoshang hǎo)'?",
+          "options": [
+            "Pagi hari",
+            "Siang hari",
+            "Malam hari",
+            "Saat berpamitan"
+          ],
+          "correctIndex": 0,
+          "explanation": "早上好 digunakan pada pagi hari."
+        },
+        {
+          "id": "q_s1_005",
+          "type": "reading",
+          "question": "下午好",
+          "romanization": "Xiàwǔ hǎo",
+          "translation": "Selamat siang",
+          "explanation": "Digunakan untuk menyapa seseorang pada siang atau sore hari."
+        },
+        {
+          "id": "q_s1_006",
+          "type": "multiple_choice",
+          "question": "Apa arti dari '下午好 (Xiàwǔ hǎo)'?",
+          "options": [
+            "Selamat malam",
+            "Selamat siang",
+            "Halo",
+            "Selamat tinggal"
+          ],
+          "correctIndex": 1,
+          "explanation": "下午好 berarti Selamat siang."
+        },
+        {
+          "id": "q_s1_007",
+          "type": "reading",
+          "question": "晚上好",
+          "romanization": "Wǎnshang hǎo",
+          "translation": "Selamat malam",
+          "explanation": "Digunakan saat menyapa seseorang pada malam hari."
+        },
+        {
+          "id": "q_s1_008",
+          "type": "multiple_choice",
+          "question": "Apa arti dari '晚上好 (Wǎnshang hǎo)'?",
+          "options": [
+            "Selamat pagi",
+            "Selamat malam",
+            "Terima kasih",
+            "Sampai jumpa"
+          ],
+          "correctIndex": 1,
+          "explanation": "晚上好 berarti Selamat malam."
+        },
+        {
+          "id": "q_s1_009",
+          "type": "reading",
+          "question": "再见",
+          "romanization": "Zàijiàn",
+          "translation": "Selamat tinggal",
+          "explanation": "Digunakan ketika mengakhiri percakapan atau berpamitan."
+        },
+        {
+          "id": "q_s1_010",
+          "type": "multiple_choice",
+          "question": "Kalimat mana yang digunakan saat berpamitan?",
+          "options": [
+            "你好",
+            "早上好",
+            "再见",
+            "晚上好"
+          ],
+          "correctIndex": 2,
+          "explanation": "再见 berarti Selamat tinggal."
+        }
+      ]
+    }
+  ]
+}
