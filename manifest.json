@@ -3,8 +3,8 @@
   "generatedAt": "2026-07-05",
 
   "app": {
-    "minimumVersion": "2.0.0", 
-    "recommendedVersion": "2.0.0",
+    "minimumVersion": "1.0.0", 
+    "recommendedVersion": "1.0.0",
     "maintenance": false
   },
   "notes" : "",
