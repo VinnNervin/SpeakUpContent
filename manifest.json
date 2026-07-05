@@ -12,13 +12,13 @@
     "english": {
       "version": "1.0.0",
       "hash": "",
-      "url": "curriculums/english.json"
+      "url": "https://raw.githubusercontent.com/VinnNervin/SpeakUpContent/refs/heads/main/en/chapter_1.json"
     },
 
     "chinese": {
       "version": "1.0.0",
       "hash": "",
-      "url": "curriculums/chinese.json"
+      "url": "https://raw.githubusercontent.com/VinnNervin/SpeakUpContent/refs/heads/main/zh/chapter_1.json"
     }
   }
 }
