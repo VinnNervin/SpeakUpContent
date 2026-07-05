@@ -4,7 +4,7 @@
 
   "app": {
     "minimumVersion": "1.0.0", 
-    "recommendedVersion": "1.1.0",
+    "recommendedVersion": "1.0.0",
     "maintenance": false
   },
   "notes" : "",
